@@ -1,2 +1,11 @@
-# Joint-Project
-Joint Android application project for the Mobile Programming course.
+
+# Joint Project
+
+**Course:** Mobile Programming
+
+**Project Type:** Android Application Development
+
+## Team Members
+- Baran Tugay
+- Gamze Güler
+- Emre Efe
